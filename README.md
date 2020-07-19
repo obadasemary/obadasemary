@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ## About Me 😁
 * 📱 iOS Developer / Freelancer
+* 📖 Open Source Contributor
+* ♥️ Exploring new places
 
 
 ## Reach me via 👇🏻
