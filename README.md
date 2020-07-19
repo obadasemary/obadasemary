@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+# I'm an extremely passionate iOS Developer
 
 Here are some ideas to get you started:
 
@@ -12,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...  
 - ⚡ Fun fact: ... I am a Gamer
 
+## About Me 😁
+* 📱 iOS Developer / Freelancer
+
+
+## Reach me via 👇🏻
+
+[![Twitter](https://raw.githubusercontent.com/Shubham0812/Test-Angular/master/docs/insta.png)](https://twitter.com/obadasemary) [![Linkedin](https://raw.githubusercontent.com/Shubham0812/Test-Angular/master/docs/linkedin.png)](https://www.linkedin.com/in/obadasemary/)
