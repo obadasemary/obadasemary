@@ -37,6 +37,7 @@
 <a href="https://www.behance.net/obadasemary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="obadasemary" height="30" width="30" /></a>
 <a href="https://medium.com/@obadasemary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@obadasemary" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/abdelrahmanelsemaryo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="abdelrahmanelsemaryo" height="30" width="30" /></a>
+<a href="https://t.me/obadasemary" alt="Telegram" target="blank"><img align="center" src="https://github.com/aletisunil/aletisunil/blob/master/telegram.png" height="30" width="30"></a>
 </p>
 
 ![image](https://github.com/obadasemary/obadasemary/blob/master/dino.gif)
