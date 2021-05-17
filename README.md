@@ -18,12 +18,6 @@
 
 - ⚡ Fun fact **I am a Gamer**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<p align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/></p>
-
 ![Obada's github stats](https://github-readme-stats.vercel.app/api?username=obadasemary&show_icons=true&count_private=true)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obadasemary&layout=compact&hide=html" alt="obadasemary" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=obadasemary&show_icons=true" alt="obadasemary" />
 
