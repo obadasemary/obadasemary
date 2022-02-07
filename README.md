@@ -21,6 +21,7 @@
 ![Obada's github stats](https://github-readme-stats.vercel.app/api?username=obadasemary&show_icons=true&count_private=true)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obadasemary&layout=compact&hide=html" alt="obadasemary" />
 
+#
 ![image](https://github.com/obadasemary/obadasemary/blob/master/dino.gif)
 
 <p align="left">
