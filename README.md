@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **SwiftUI**, **Combine**
 
-- 👯 I’m looking to collaborate on **SwiftUI**, **Combine**
+- 👯 I’m looking to collaborate on **SwiftUI**, **Combine**, **Async Await**
 
 - 🤝 I’m looking for help with **SwiftUI**, **Combine**
 
@@ -17,9 +17,6 @@
 - 📫 How to reach me **obada.semary@gmail.com**
 
 - ⚡ Fun fact **I am a Gamer**
-
-![Obada's github stats](https://github-readme-stats.vercel.app/api?username=obadasemary&show_icons=true&count_private=true)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obadasemary&layout=compact&hide=html" alt="obadasemary" />
 
 #
 ![image](https://github.com/obadasemary/obadasemary/blob/master/dino.gif)
