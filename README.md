@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Senior Software Mobile Engineer </h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obadasemary" alt="obadasemary" /> </p>
+<h1 align="leading">Hey 👋, I'm Senior Software Mobile Engineer </h1>
 
 - 🔭 I’m currently working on [Breadfast](https://www.breadfast.com)
 
