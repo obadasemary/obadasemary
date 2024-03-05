@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Senior Software Mobile Engineer </h1>
-<h2 align="center">Hi 👋, I'm an extremely passionate Software Mobile Engineer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obadasemary" alt="obadasemary" /> </p>
 
