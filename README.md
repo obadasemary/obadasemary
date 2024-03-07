@@ -2,10 +2,6 @@
 
 - 🔭 I’m currently working on [Breadfast](https://www.breadfast.com)
 
-- 💬 Ask me about **iOS Development, Mobile Development**
-
-- 📫 How to reach me **obada.semary@gmail.com**
-
 - ⚡ Fun fact **I am a Gamer**
 
 #
