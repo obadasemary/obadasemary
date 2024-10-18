@@ -1,5 +1,5 @@
-![image](https://github.com/obadasemary/obadasemary/blob/master/giphy.webp)
-![image](https://github.com/obadasemary/obadasemary/blob/master/dino.gif)
+![image](https://github.com/obadasemary/obadasemary/blob/master/sobhi.webp)
+
 
 
 <p align="left">
