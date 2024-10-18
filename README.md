@@ -1,10 +1,3 @@
-<h1 align="leading">Hey 👋, I'm Senior Software Mobile Engineer </h1>
-
-- 🔭 I’m currently working on [Breadfast](https://www.breadfast.com)
-
-- ⚡ Fun fact **I am a Gamer**
-
-#
 ![image](https://github.com/obadasemary/obadasemary/blob/master/dino.gif)
 
 <p align="left">
