@@ -1,4 +1,6 @@
+![image](https://github.com/obadasemary/obadasemary/blob/master/giphy.webp)
 ![image](https://github.com/obadasemary/obadasemary/blob/master/dino.gif)
+
 
 <p align="left">
 <a href="https://dev.to/obadasemary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="obadasemary" height="30" width="30" /></a>
