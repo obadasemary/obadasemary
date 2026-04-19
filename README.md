@@ -17,7 +17,7 @@ interesting problems.
 
 ## Connect With Me
 
-<table><tr>
+<table role="presentation" border="0" cellspacing="0" cellpadding="0"><tr>
   <td><a href="https://dev.to/obadasemary" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/devdotto.svg" alt="dev.to" height="30" width="30" /></a></td>
   <td><a href="https://twitter.com/obadasemary" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="X (Twitter)" height="30" width="30" /></a></td>
   <td><a href="https://linkedin.com/in/obadasemary" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a></td>
